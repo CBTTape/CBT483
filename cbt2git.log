@@ -1,0 +1,41 @@
+2023-04-03 00:37:12.298444 - Initialized conversion of CBT483
+2023-04-03 00:37:12.650856 - Received CBT.V504.FILE483.PDS from FILE483.XMI 
+2023-04-03 00:37:12.653556 - Found $$$$$DOC.txt (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/$$$$$DOC
+2023-04-03 00:37:12.654631 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:37:12.655796 - Found $INSLINE.txt (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/$INSLINE
+2023-04-03 00:37:12.657003 - Found $QCMD.txt (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/$QCMD
+2023-04-03 00:37:12.657999 - Found $QLPAR.txt (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/$QLPAR
+2023-04-03 00:37:12.659216 - Found $QSMS.txt (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/$QSMS
+2023-04-03 00:37:12.660256 - Found $QVTOC.txt (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/$QVTOC
+2023-04-03 00:37:12.661202 - Found @FILE483.txt (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/@FILE483
+2023-04-03 00:37:12.662087 - Found ADDMSG.txt (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/ADDMSG
+2023-04-03 00:37:12.663175 - Found AIACCTAB.jcl (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/AIACCTAB
+2023-04-03 00:37:12.664290 - Found CATCVTM.rexx (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/CATCVTM
+2023-04-03 00:37:12.665266 - Found DTOD.jcl (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/DTOD
+2023-04-03 00:37:12.666153 - Found IGDBCD.txt (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/IGDBCD
+2023-04-03 00:37:12.667170 - Found INSLINE.rexx (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/INSLINE
+2023-04-03 00:37:12.667191 - Found MM.bin containing application/octet-stream, moved to PDS/MM
+2023-04-03 00:37:12.668185 - Found MMP.bin containing application/octet-stream, moved to PDS/MMP
+2023-04-03 00:37:12.669232 - Found MMPH.bin containing application/octet-stream, moved to PDS/MMPH
+2023-04-03 00:37:12.671184 - Found OMTREE.rexx (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/OMTREE
+2023-04-03 00:37:12.672202 - Found OMTREEH.txt (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/OMTREEH
+2023-04-03 00:37:12.673129 - Found OMTREE1.txt (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/OMTREE1
+2023-04-03 00:37:12.674025 - Found PRINTREG.txt (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/PRINTREG
+2023-04-03 00:37:12.674940 - Found QCMC.rexx (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/QCMC
+2023-04-03 00:37:12.676069 - Found QCMD.jcl (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/QCMD
+2023-04-03 00:37:12.677045 - Found QCMDREPL.jcl (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/QCMDREPL
+2023-04-03 00:37:12.678177 - Found QCMP010.txt (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/QCMP010
+2023-04-03 00:37:12.679122 - Found QCMSCRL.rexx (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/QCMSCRL
+2023-04-03 00:37:12.680063 - Found QLPAR.jcl (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/QLPAR
+2023-04-03 00:37:12.681013 - Found QSMS.jcl (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/QSMS
+2023-04-03 00:37:12.681959 - Found QSMSREXX.rexx (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/QSMSREXX
+2023-04-03 00:37:12.682921 - Found QSMS00.jcl (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/QSMS00
+2023-04-03 00:37:12.683921 - Found QTOD.jcl (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/QTOD
+2023-04-03 00:37:12.700840 - Found QUICKIE.xmi (application/xmit) in CBT.V504.FILE483.PDS
+2023-04-03 00:37:12.712602   - Received RECFM=U data, stored XMIT file as CBT483/QUICKIE.xmi
+2023-04-03 00:37:12.713516 - Found QVTOC.jcl (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/QVTOC
+2023-04-03 00:37:12.714382 - Found Q522.jcl (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/Q522
+2023-04-03 00:37:12.715311 - Found TODPRINT.txt (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/TODPRINT
+2023-04-03 00:37:12.715322 - Found WORM.bin containing application/octet-stream, moved to PDS/WORM
+2023-04-03 00:37:12.716310 - Found WORMP.bin containing application/octet-stream, moved to PDS/WORMP
+2023-04-03 00:37:12.718024 - Found WORMPH.txt (text/plain) in CBT.V504.FILE483.PDS, moved to PDS/WORMPH
